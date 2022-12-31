@@ -1,13 +1,17 @@
 {
-    "name": "jenssegers/model",
-    "description": "An Laravel eloquent-like model class, for Laravel and other frameworks",
+    "name": "coldsnakedigital/pseudo-eloquent-model",
+    "description": "An Laravel eloquent-like model class, for Laravel and other frameworks based on jenssegers/model",
     "keywords": ["laravel", "eloquent", "model"],
-    "homepage": "https://github.com/jenssegers/model",
+    "homepage": "https://github.com/coldsnakedigital/pseudo-eloquent-model",
     "license" : "MIT",
     "authors": [
         {
             "name": "Jens Segers",
             "homepage": "https://jenssegers.com"
+        }, 
+        {
+            "name": "Stacey Rattlesnake",
+            "homepage": "https://www.coldsnakedigital.com"
         }
     ],
     "require": {

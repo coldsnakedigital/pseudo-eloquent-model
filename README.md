@@ -27,7 +27,7 @@ Installation
 Install using composer:
 
 ```bash
-composer require jenssegers/model
+composer require coldsnakedigital/pseudo-eloquent-model
 ```
 
 Example
