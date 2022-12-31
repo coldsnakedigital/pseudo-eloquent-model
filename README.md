@@ -1,9 +1,13 @@
-Model
+Pseudo Eloquent Model
 =====
 
 [![Build Status](http://img.shields.io/travis/jenssegers/model.svg)](https://travis-ci.org/jenssegers/model) [![Coverage Status](http://img.shields.io/coveralls/jenssegers/model.svg)](https://coveralls.io/r/jenssegers/model)
 
 This model provides an Laravel eloquent-like base class that can be used to build custom models in Laravel or other frameworks.
+
+Updates
+--------
+Providing some fixes to warnings and ability to work with Spatie Permissions on https://github.com/spatie/laravel-permission
 
 Features
 --------
